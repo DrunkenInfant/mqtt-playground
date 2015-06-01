@@ -1,0 +1,14 @@
+{
+  "name": "trigger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "osse.olsson@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^1.2.0"
+  }
+}

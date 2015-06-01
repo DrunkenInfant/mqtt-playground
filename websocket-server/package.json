@@ -1,0 +1,16 @@
+{
+  "name": "websocket-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "node --harmony test.js"
+  },
+  "author": "osse.olsson@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^1.2.0",
+    "ws": "^0.7.2"
+  }
+}
